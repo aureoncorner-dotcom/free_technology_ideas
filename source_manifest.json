@@ -1,0 +1,76 @@
+{
+  "title": "Five-String Acoustic Resonator - Rev B - Drawing Expansion 01",
+  "date": "2026-09-08",
+  "author": "Anonymous",
+  "rights": "CC0 1.0 for new drawings and original authored package content",
+  "status": "PROVISIONAL - NOT A CUTTING DRAWING",
+  "source_files": [
+    {
+      "source_id": "S1",
+      "attached_workspace_basename": "Five_String_Acoustic_Resonator_Rev_B_Schematic_Update(1).docx",
+      "sha256": "96b288e61e54886f6f844f1f36fdbdd37a74a67ffbdf90dd83d814bf7639996f",
+      "size_bytes": 188909
+    },
+    {
+      "source_id": "S2",
+      "attached_workspace_basename": "Rev B treats string tension as a --gate--, not a decoration.pdf",
+      "sha256": "d724c7e6548c64bed09ca9def76c4e69431a342c71527c5b20a5e57c3da86e5b",
+      "size_bytes": 223884
+    },
+    {
+      "source_id": "S3",
+      "attached_workspace_basename": "01-Five_String_Acoustic_Resonator_Rev_B_Updated_Schematic-3.png",
+      "sha256": "b7d830f799050affeac56bef082a4d89221d549efcd5e3ed4ff210318a1b9143",
+      "size_bytes": 222972
+    },
+    {
+      "source_id": "S3",
+      "attached_workspace_basename": "02-Five_String_Acoustic_Resonator_Rev_B_Updated_Schematic-1-.png",
+      "sha256": "b7d830f799050affeac56bef082a4d89221d549efcd5e3ed4ff210318a1b9143",
+      "size_bytes": 222972
+    },
+    {
+      "source_id": "S4",
+      "attached_workspace_basename": "03-1000012796.jpg",
+      "sha256": "af74cfdcb59afc58b9dcb812606bc9c6fafb043e38bb91e08b4229b6c98880f0",
+      "size_bytes": 316060
+    },
+    {
+      "source_id": "S4",
+      "attached_workspace_basename": "04-1000012794.png",
+      "sha256": "6bbf1195eec013531d1bf22ec8a17a5b079e39ef62daa69a1ed8178312b1cebd",
+      "size_bytes": 391820
+    },
+    {
+      "source_id": "S5",
+      "attached_workspace_basename": "Five_String_Acoustic_Resonator_Rev_B.md",
+      "sha256": "10dc99cafdf15dceccc7a33fa615892d2c21101b9f2676fa9bd674160aa70e99",
+      "size_bytes": 15604
+    }
+  ],
+  "lineage_note": "S1 embeds a predecessor source-file hash. The hashes here identify the actual attached bytes reviewed for this issue. The predecessor was not separately recovered. S3 duplicates have the same hash.",
+  "references_checked_2026_09_08": [
+    {
+      "id": "W1",
+      "title": "UNSW: Strings, standing waves and harmonics",
+      "url": "https://www.phys.unsw.edu.au/jw/strings.html"
+    },
+    {
+      "id": "W2",
+      "title": "Baker and Haynes: Statically Equivalent Systems",
+      "url": "https://eng.libretexts.org/Bookshelves/Mechanical_Engineering/Engineering_Statics:_Open_and_Interactive_(Baker_and_Haynes)/04:_Moments_and_Static_Equivalence/4.07:_Statically_Equivalent_Systems"
+    },
+    {
+      "id": "W3",
+      "title": "USDA Forest Products Laboratory: Wood Handbook, 2021",
+      "url": "https://research.fs.usda.gov/treesearch/62200"
+    },
+    {
+      "id": "W4",
+      "title": "DAddario: String Tension Pro",
+      "url": "https://www.daddario.com/pages/string-tension-pro-string-tension-calculator",
+      "note": "Historical tension_chart_13934.pdf URL redirects here. Unit weights in the supplied PDF were not independently reconfirmed."
+    }
+  ],
+  "pdf_sha256": "9e1d61988d02ddf672b370a0409c6cf42cfd8cd9f550301b28b986d7ae4b36a4"
+}

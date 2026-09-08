@@ -1,0 +1,40 @@
+{
+  "configuration": "EX-B1-R1",
+  "status": "conditional candidate; not selected operating set",
+  "source_UW_status": "transcribed from supplied PDF; current maker values not reconfirmed",
+  "L_in": 32,
+  "frequency_Hz": [
+    110.0,
+    130.8127826502993,
+    164.81377845643496,
+    195.99771799087463,
+    261.6255653005986
+  ],
+  "UW_lb_in": [
+    0.00012671,
+    7.177e-05,
+    4.342e-05,
+    3.19e-05,
+    2.215e-05
+  ],
+  "mu_g_m": [
+    2.2627830394763784,
+    1.2816663147598426,
+    0.7753929411574804,
+    0.5696691575984253,
+    0.3955539762007874
+  ],
+  "tension_lbf": [
+    16.252459461697725,
+    13.018655792712677,
+    12.5025811264106,
+    12.990191188786465,
+    16.07151878548618
+  ],
+  "total_lbf": 70.83540635509365,
+  "total_N": 315.09158567448856,
+  "left_bar_moment_lbf_in": 69.09381299140846,
+  "right_bar_moment_lbf_in": 68.47017503881317,
+  "string_only_clear_ID_example_in": 14.041594578792296,
+  "bar_clear_ID_example_in": 17.30522786501397
+}
