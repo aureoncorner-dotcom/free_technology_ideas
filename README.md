@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/five-string-acoustic-resonator-rev-b.png"
+  <img src="file_00000000a310822fa84e08eb29fd3bbf.png"
        alt="Five-String Acoustic Resonator — Rev B"
        width="100%">
-</p>file_00000000a310822fa84e08eb29fd3bbf.png
+</p>
 
 # Five-String Acoustic Resonator — Rev B
 
